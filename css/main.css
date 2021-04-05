@@ -33,7 +33,7 @@ header > h1 {
 }
 
 nav {
-  background-color: pink;
+  background-color: #bd027d;
   grid-column: 1 / -1;
   grid-row: 1;
 }
